@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matt51814
-- 👀 I’m interested in Artificial Intelligence, Blockchains and Data.
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Haskell as part of the Plutus Pioneers Program with Cardano.
 - 💞️ I’m looking to collaborate on data apps and AI.
 - 📫 How to reach me, email: matthawthorn@hotmail.com
